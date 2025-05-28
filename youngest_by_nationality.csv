@@ -1,0 +1,141 @@
+,player_id,team_id,name,position,date_of_birth,nationality,age,name
+0,187998,1,Rijad Smajic,Defence,2004-05-02,Bosnia-Herzegovina,21,1. FC Koln
+1,326,2,Ihlas Bebou,Midfield,1994-04-23,Togo,31,TSG 1899 Hoffenheim
+2,191421,3,Gustavo Puerta,Midfield,2003-07-23,Colombia,21,Bayer 04 Leverkusen
+3,161415,4,Abdoulaye Kamara,Midfield,2004-11-06,Guinea,20,Borussia Dortmund
+4,182280,4,Julien Duranville,Offence,2006-05-05,Belgium,19,Borussia Dortmund
+5,183635,5,Lovro Zvonarek,Midfield,2005-05-08,Croatia,20,FC Bayern Munchen
+6,246474,5,Jonathan Asp-Jensen,Midfield,2006-01-14,Denmark,19,FC Bayern Munchen
+7,246476,5,Adam Aznou,Defence,2006-06-02,Morocco,18,FC Bayern Munchen
+8,215574,10,Anrie Chase,Defence,2004-03-24,Japan,21,VfB Stuttgart
+9,124324,11,Patrick Wimmer,Midfield,2001-05-30,Austria,23,VfL Wolfsburg
+10,226969,12,Spyros Angelidis,Goalkeeper,2005-01-28,Greece,20,SV Werder Bremen
+11,82403,15,Leandro Barreiro Martins,Midfield,2000-01-03,Luxembourg,25,1. FSV Mainz 05
+12,6884,17,Florent Muslija,Midfield,1998-07-06,Kosovo,26,SC Freiburg
+13,60395,17,Chikwubuike Adamu,Midfield,2001-06-06,Austria,23,SC Freiburg
+14,181745,17,Jaaso Jantunen,Goalkeeper,2005-01-31,Finland,20,SC Freiburg
+15,183637,18,Grant-Leon Ranos,Midfield,2003-07-20,Armenia,21,Borussia Monchengladbach
+16,191106,18,Simon Walde,Defence,2026-06-30,Germany,-1,Borussia Monchengladbach
+17,206426,18,Shio Fukuda,Offence,2004-04-08,Japan,21,Borussia Monchengladbach
+18,66896,19,Omar Marmoush,Offence,1999-02-07,Egypt,26,Eintracht Frankfurt
+19,191130,19,Simon Simoni,Goalkeeper,2027-06-30,Albania,-2,Eintracht Frankfurt
+20,205610,19,Davis Bautista,Defence,2005-02-16,Ecuador,20,Eintracht Frankfurt
+21,230048,19,Nils Ramming,Goalkeeper,2007-03-28,Sweden,18,Eintracht Frankfurt
+22,3513,36,Cristian Gamboa,Defence,1989-10-24,Costa Rica,35,VfL Bochum 1848
+23,151089,36,Agon Elezi,Midfield,2001-03-01,North Macedonia,24,VfL Bochum 1848
+24,143050,44,Paul Tschernuth,Goalkeeper,2002-01-20,Austria,23,1. FC Heidenheim 1846
+25,212813,44,Seedy Jarju,Defence,2004-10-28,Gambia,20,1. FC Heidenheim 1846
+26,6630,55,Gerrit Holtmann,Midfield,1995-03-25,Philippines,30,SV Darmstadt 98
+27,250932,55,Asaf Arania,Midfield,2005-10-19,Israel,19,SV Darmstadt 98
+28,157,58,Leon Bailey,Offence,1997-08-09,Jamaica,27,Aston Villa
+29,104493,58,Jhon Duran,Offence,2003-12-13,Colombia,21,Aston Villa
+30,214417,58,Omari Kellyman,Offence,2005-09-25,Northern Ireland,19,Aston Villa
+31,247243,61,Ollie Harrison,Midfield,2007-08-07,England,17,Chelsea
+32,189889,63,Kristian Sekularac,Midfield,2003-12-07,Switzerland,21,Fulham
+33,217596,63,Luc De Fougerolles,Defence,2005-10-12,Canada,19,Fulham
+34,227998,63,Devan Tanton,Defence,2004-01-03,Colombia,21,Fulham
+35,230517,64,Trey Nyoni,Midfield,2007-06-30,England,17,Liverpool
+36,244989,64,Lewis Koumas,Offence,2005-09-19,Wales,19,Liverpool
+37,181901,66,Alejandro Garnacho,Offence,2004-07-01,Argentina,20,Manchester United
+38,244860,66,Willy Kambwala,Defence,2004-08-25,DR Congo,20,Manchester United
+39,181158,67,Garang Kuol,Offence,2004-09-15,Australia,20,Newcastle United
+40,251079,73,Mikey Moore,Offence,2007-08-11,England,17,Tottenham Hotspur
+41,193014,76,Enso Gonzalez,Midfield,2005-01-20,Paraguay,20,Wolverhampton Wanderers
+42,249060,76,Wesley Okoduwa,Defence,2008-05-12,England,17,Wolverhampton Wanderers
+43,244719,78,Rayane Belaid,Midfield,2005-11-02,Algeria,19,Club Atletico de Madrid
+44,202283,81,Lamine Yamal,Offence,2007-07-13,Spain,17,FC Barcelona
+45,217424,81,Diego Kochen,Goalkeeper,2006-03-19,USA,19,FC Barcelona
+46,242551,81,Aron Yaakobishvili,Goalkeeper,2006-03-06,Hungary,19,FC Barcelona
+47,246276,82,Djordjije Medenica,Goalkeeper,2006-11-17,Czech Republic,18,Getafe CF
+48,160893,83,Adam Griger,Midfield,2004-03-16,Slovakia,21,Granada CF
+49,246361,83,Eghosa,Offence,2004-03-17,Benin,21,Granada CF
+50,7633,92,Sheraldo Becker,Offence,1995-02-09,Suriname,30,Real Sociedad de Futbol
+51,170540,92,Arsen Zakharyan,Midfield,2003-05-26,Russia,22,Real Sociedad de Futbol
+52,149840,94,Iker Alvarez,Goalkeeper,2001-07-25,Andorra,23,Villarreal CF
+53,244650,95,Ali Fadal,Midfield,2004-01-14,Ghana,21,Valencia CF
+54,244743,95,David Otorbi,Offence,2007-10-16,Spain,17,Valencia CF
+55,242550,98,Francesco Camarda,Offence,2008-03-10,Italy,17,AC Milan
+56,247120,98,Victor Eletu,Midfield,2005-04-01,Nigeria,20,AC Milan
+57,3817,100,Sardar Azmoun,Offence,1995-01-01,Iran,30,AS Roma
+58,120076,100,Martin Vetkal,Defence,2004-02-21,Estonia,21,AS Roma
+59,245387,100,Renato Marin,Goalkeeper,2006-07-10,Brazil,18,AS Roma
+60,137362,103,Kacper Urbanski,Midfield,2004-09-07,Poland,20,Bologna FC 1909
+61,170891,103,Santiago Castro,Offence,2004-09-18,Argentina,20,Bologna FC 1909
+62,171122,104,Zito Luvumbo,Offence,2002-03-09,Angola,23,Cagliari Calcio
+63,202717,104,Velizar Iliev,Goalkeeper,2005-07-20,Bulgaria,19,Cagliari Calcio
+64,246153,104,Kingstone Mutandwa,Offence,2003-01-05,Zambia,22,Cagliari Calcio
+65,191042,107,Alan Matturro,Defence,2004-10-11,Uruguay,20,Genoa CFC
+66,242561,107,Christos Papadopoulos,Midfield,2004-11-01,Greece,20,Genoa CFC
+67,188920,108,Aleksandar Stankovic,Midfield,2005-08-03,Serbia,19,FC Internazionale Milano
+68,206715,108,Ebenezer Akinsanmiro,Midfield,2004-11-25,Nigeria,20,FC Internazionale Milano
+69,217916,110,Sana Fernandes,Offence,2006-03-10,Portugal,19,SS Lazio
+70,244837,110,Matteo Dutu,Midfield,2005-11-23,Romania,19,SS Lazio
+71,99311,115,Jordan Zemura,Defence,1999-11-14,Zimbabwe,25,Udinese Calcio
+72,215588,115,David Pejicic,Midfield,2007-06-14,Slovenia,17,Udinese Calcio
+73,123682,263,Jesus Owono,Goalkeeper,2001-03-01,Equatorial Guinea,24,Deportivo Alaves
+74,203546,263,Jose de Leon,Midfield,2004-03-02,Dominican Republic,21,Deportivo Alaves
+75,115278,264,Aiham Ousou,Defence,2000-01-09,Syria,25,Cadiz CF
+76,203453,264,Moussa Diakite,Midfield,2003-11-04,Mali,21,Cadiz CF
+77,32483,267,Anthony Lozano,Offence,1993-04-25,Honduras,32,UD Almeria
+78,125171,267,Bruno Langa,Defence,1997-10-31,Mozambique,27,UD Almeria
+79,144668,267,Luka Romero,Midfield,2004-11-18,Argentina,20,UD Almeria
+80,113335,275,Julian Araujo,Defence,2001-08-13,Mexico,23,UD Las Palmas
+81,244666,275,Deogracias Bassinga,Offence,2005-08-11,Congo,19,UD Las Palmas
+82,245397,275,Aboubacar Bassinga,Midfield,2005-07-13,Ivory Coast,19,UD Las Palmas
+83,247055,275,Alvaro Killane,Goalkeeper,2004-12-14,Argentina,20,UD Las Palmas
+84,178361,298,Jhon Solis,Midfield,2004-03-10,Colombia,21,Girona FC
+85,244589,298,Juan Arango,Offence,2006-06-27,Venezuela,18,Girona FC
+86,34760,328,Lyle Foster,Offence,2000-09-04,South Africa,24,Burnley
+87,81179,328,Arijanet Muric,Goalkeeper,1998-11-07,Kosovo,26,Burnley
+88,11300,356,Ben Brereton,Offence,1999-04-18,Chile,26,Unknown Team
+89,184462,356,Sam Curtis,Defence,2005-12-01,Ireland,19,Unknown Team
+90,226992,356,Ryan One,Offence,2006-06-26,Scotland,18,Unknown Team
+91,248774,356,Dovydas Sasnauskas,Defence,2007-01-01,Lithuania,18,Unknown Team
+92,249541,389,Dominic Martins,Midfield,2005-10-13,Portugal,19,Luton Town
+93,170261,397,Valentin Barco,Defence,2004-07-23,Argentina,20,Brighton & Hove Albion
+94,184273,397,Facundo Buonanotte,Midfield,2004-12-23,Argentina,20,Brighton & Hove Albion
+95,56666,402,Shandon Baptiste,Midfield,1998-04-08,Grenada,27,Brentford
+96,204421,402,Yegor Yarmolyuk,Midfield,2004-03-01,Ukraine,21,Brentford
+97,214532,402,Yunus Konak,Midfield,2006-01-10,Turkey,19,Brentford
+98,221783,402,Ji-soo Kim,Defence,2004-12-24,South Korea,20,Brentford
+99,245364,402,Benjamin Fredrick,Defence,2005-05-28,Nigeria,20,Brentford
+100,4690,445,Liberato Cacace,Defence,2000-09-27,New Zealand,24,Empoli FC
+101,215525,445,Saba Goglichidze,Defence,2004-06-25,Georgia,20,Empoli FC
+102,188117,470,Isak Vural,Midfield,2006-05-28,Turkey,19,Frosinone Calcio
+103,814,511,Logan Costa,Defence,2001-04-01,Cape Verde Islands,24,Toulouse FC
+104,171044,516,Roggerio Nyakossi,Defence,2004-01-13,Switzerland,21,Olympique de Marseille
+105,188908,516,Michael Murillo,Defence,1996-02-11,Panama,29,Olympique de Marseille
+106,204251,516,Raimane Daou,Midfield,2004-11-20,Comoros,20,Olympique de Marseille
+107,250948,516,Darryl Bakola,Offence,2007-11-30,France,17,Olympique de Marseille
+108,98763,518,Musa Al Taamari,Midfield,1997-06-10,Jordan,27,Montpellier HSC
+109,8990,521,Edon Zhegrova,Offence,1999-03-31,Kosovo,26,Lille OSC
+110,182199,521,Joffrey Bazie,Offence,2003-10-27,Burkina Faso,21,Lille OSC
+111,213221,521,Hakon Haraldsson,Midfield,2003-04-10,Iceland,22,Lille OSC
+112,221819,521,Ayyoub Bouaddi,Midfield,2007-10-02,France,17,Lille OSC
+113,250942,521,Vincent Burlet,Defence,2005-09-23,Belgium,19,Lille OSC
+114,172057,522,Youssouf Ndayishimiye,Defence,1998-10-27,Burundi,26,OGC Nice
+115,220121,522,Amidou Doumbouya,Defence,2007-08-05,France,17,OGC Nice
+116,43707,523,Mama Balde,Midfield,1995-11-06,Guinea-Bissau,29,Olympique Lyonnais
+117,184726,523,Ernest Nuamah,Midfield,2003-11-01,Ghana,21,Olympique Lyonnais
+118,189683,523,Chaim El Djebali,Midfield,2004-02-07,Tunisia,21,Olympique Lyonnais
+119,204247,524,Serif Nhaga,Defence,2005-09-01,Portugal,19,Paris Saint-Germain FC
+120,123203,525,Dominique Youfeigane,Goalkeeper,2000-02-07,Central African Republic,25,FC Lorient
+121,245400,525,Royce Openda,Offence,2002-04-21,Gabon,23,FC Lorient
+122,227004,529,Mahamadou Nagida,Defence,2005-06-28,Cameroon,19,Stade Rennais FC 1901
+123,8775,533,Yoann Salmier,Defence,1992-11-21,French Guiana,32,Le Havre AC
+124,152737,533,Josue Casimir,Offence,2001-09-24,Guadeloupe,23,Le Havre AC
+125,191921,541,Cheick Oumar Konate,Defence,2004-04-02,Mali,21,Clermont Foot 63
+126,212868,546,Abdukodir Khusanov,Defence,2004-02-29,Uzbekistan,21,Racing Club de Lens
+127,34313,547,Joseph Okumu,Defence,1997-05-26,Kenya,28,Stade de Reims
+128,227011,548,Ritchy Valme,Defence,2005-02-03,Haiti,20,AS Monaco FC
+129,3782,558,Renato Tapia,Midfield,1995-07-28,Peru,29,RC Celta de Vigo
+130,221295,559,Stanis Idumbo-Muzambo,Offence,2005-06-29,Belgium,19,Sevilla FC
+131,244598,559,Ibrahima Sow,Offence,2007-01-26,Senegal,18,Sevilla FC
+132,229415,576,Jeremy Sebas,Offence,2003-04-14,Martinique,22,RC Strasbourg Alsace
+133,252843,576,Vignon Ouotro,Offence,2005-09-13,Ivory Coast,19,RC Strasbourg Alsace
+134,226987,586,Zannetos Savva,Offence,2005-11-26,Cyprus,19,Torino FC
+135,245825,721,Yannick Eduardo,Offence,2006-01-23,Netherlands,19,RB Leipzig
+136,252832,721,Jonathan Norbye,Defence,2007-03-26,Norway,18,RB Leipzig
+137,246451,1044,Callan McKenna,Goalkeeper,2006-12-22,Scotland,18,AFC Bournemouth
+138,120679,5890,Nikola Krstovic,Offence,2000-04-05,Montenegro,25,US Lecce
+139,246552,5911,Matija Popovic,Midfield,2006-01-08,Serbia,19,AC Monza

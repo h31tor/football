@@ -1,0 +1,117 @@
+,player_id,team_id,name,position,date_of_birth,nationality,age,name
+0,317,2,Pavel Kaderabek,Defence,1992-04-25,Czech Republic,33,TSG 1899 Hoffenheim
+1,6696,3,Lukas Hradecky,Goalkeeper,1989-11-24,Finland,35,Bayer 04 Leverkusen
+2,7963,5,Maxim Choupo-Moting,Offence,1989-03-23,Cameroon,36,FC Bayern Munchen
+3,158,10,Mahmoud Dahoud,Midfield,1996-01-01,Syria,29,VfB Stuttgart
+4,193091,10,Raul Paula,Midfield,1976-06-26,Germany,48,VfB Stuttgart
+5,9441,12,Jiri Pavlenka,Goalkeeper,1992-04-14,Czech Republic,33,SV Werder Bremen
+6,82403,15,Leandro Barreiro Martins,Midfield,2000-01-03,Luxembourg,25,1. FSV Mainz 05
+7,179889,15,Jae-sung Lee,Midfield,1992-08-10,South Korea,32,1. FSV Mainz 05
+8,3271,19,Makoto Hasebe,Defence,1984-01-18,Japan,41,Eintracht Frankfurt
+9,6828,28,Christopher Trimmel,Defence,1987-02-24,Austria,38,1. FC Union Berlin
+10,16468,36,Ivan Ordets,Defence,1992-07-08,Ukraine,32,VfL Bochum 1848
+11,6630,55,Gerrit Holtmann,Midfield,1995-03-25,Philippines,30,SV Darmstadt 98
+12,153843,57,Karl Jakob Hein,Goalkeeper,2002-04-13,Estonia,23,Arsenal
+13,179669,57,Mohamed Elneny,Midfield,1992-07-11,Egypt,32,Arsenal
+14,15512,58,Robin Olsen,Goalkeeper,1990-01-08,Sweden,35,Aston Villa
+15,3627,62,Idrissa Gana Gueye,Midfield,1989-09-26,Senegal,35,Everton
+16,4133,62,Andy Lonergan,Goalkeeper,1983-10-19,England,41,Everton
+17,3956,63,Tim Ream,Defence,1987-10-05,USA,37,Fulham
+18,3754,64,Mohamed Salah,Offence,1992-06-15,Egypt,32,Liverpool
+19,8014,66,Jonny Evans,Defence,1988-01-03,Northern Ireland,37,Manchester United
+20,7914,67,Martin Dubravka,Goalkeeper,1989-01-15,Slovakia,36,Newcastle United
+21,7930,67,Matt Ritchie,Defence,1989-09-10,Scotland,35,Newcastle United
+22,76861,67,Miguel Almiron,Midfield,1994-02-10,Paraguay,31,Newcastle United
+23,170281,73,Heung-min Son,Midfield,1992-07-08,South Korea,32,Tottenham Hotspur
+24,3656,78,Axel Witsel,Defence,1989-01-12,Belgium,36,Club Atletico de Madrid
+25,15845,78,Stefan Savic,Defence,1991-01-08,Montenegro,34,Club Atletico de Madrid
+26,37094,78,Reinildo,Defence,1994-01-21,Mozambique,31,Club Atletico de Madrid
+27,3125,82,Dakonam Djene,Defence,1991-12-31,Togo,33,Getafe CF
+28,43,86,Luka Modric,Midfield,1985-09-09,Croatia,39,Real Madrid CF
+29,3739,87,Radamel Falcao,Offence,1986-02-10,Colombia,39,Rayo Vallecano de Madrid
+30,32128,87,Bebe,Offence,1990-07-12,Cape Verde Islands,34,Rayo Vallecano de Madrid
+31,33781,87,Stole Dimitrievski,Goalkeeper,1993-12-25,North Macedonia,31,Rayo Vallecano de Madrid
+32,15958,89,Cyle Larin,Offence,1995-04-17,Canada,30,RCD Mallorca
+33,137,90,Sokratis Papastathopoulos,Defence,1988-06-09,Greece,36,Real Betis Balompie
+34,7879,90,Claudio Bravo,Goalkeeper,1983-04-13,Chile,42,Real Betis Balompie
+35,21583,90,Cedric Bakambu,Offence,1991-04-11,DR Congo,34,Real Betis Balompie
+36,8808,92,Hamari Traore,Defence,1992-01-27,Mali,33,Real Sociedad de Futbol
+37,2082,94,Pepe Reina,Goalkeeper,1982-08-31,Spain,42,Villarreal CF
+38,8467,94,Bertrand Traore,Offence,1995-09-06,Burkina Faso,29,Villarreal CF
+39,149840,94,Iker Alvarez,Goalkeeper,2001-07-25,Andorra,23,Villarreal CF
+40,8780,95,Dimitri Foulquier,Defence,1993-03-23,Guadeloupe,32,Valencia CF
+41,84506,95,Giorgi Mamardashvili,Goalkeeper,2000-09-29,Georgia,24,Valencia CF
+42,56,98,Simon Kjær,Defence,1989-03-26,Denmark,36,AC Milan
+43,3239,100,Rui Patricio,Goalkeeper,1988-02-15,Portugal,37,AS Roma
+44,1987,104,Gianluca Lapadula,Offence,1990-02-07,Peru,35,Cagliari Calcio
+45,49307,104,Eldor Shomurodov,Offence,1995-06-29,Uzbekistan,29,Cagliari Calcio
+46,7466,107,Ridgeciano Haps,Defence,1993-06-12,Suriname,31,Genoa CFC
+47,179561,107,Ruslan Malinovskiy,Midfield,1993-05-04,Ukraine,32,Genoa CFC
+48,228745,107,Yoan Bornosuzov,Offence,2004-01-09,Bulgaria,21,Genoa CFC
+49,1754,108,Hakan Calhanoglu,Midfield,1994-02-08,Turkey,31,FC Internazionale Milano
+50,3470,108,Yann Sommer,Goalkeeper,1988-12-17,Switzerland,36,FC Internazionale Milano
+51,7795,108,Henrikh Mkhitaryan,Midfield,1989-01-21,Armenia,36,FC Internazionale Milano
+52,113285,113,Khvicha Kvaratskhelia,Offence,2001-02-12,Georgia,24,SSC Napoli
+53,32063,264,Darwin Machis,Offence,1993-02-07,Venezuela,32,Cadiz CF
+54,32483,267,Anthony Lozano,Offence,1993-04-25,Honduras,32,UD Almeria
+55,3171,298,Cristhian Stuani,Offence,1986-10-12,Uruguay,38,Girona FC
+56,3839,328,Johann Berg Guðmundsson,Midfield,1990-10-27,Iceland,34,Burnley
+57,3618,351,Cheikhou Kouyate,Midfield,1989-12-21,Senegal,35,Nottingham Forest
+58,8057,351,Chris Wood,Offence,1991-12-07,New Zealand,33,Nottingham Forest
+59,8137,351,Wayne Hennessey,Goalkeeper,1987-01-24,Wales,38,Nottingham Forest
+60,8258,389,Tim Krul,Goalkeeper,1988-04-03,Netherlands,37,Luton Town
+61,8885,389,Marvelous Nakamba,Midfield,1994-10-19,Zimbabwe,30,Luton Town
+62,32642,397,Pervis Estupinan,Defence,1998-01-21,Ecuador,27,Brighton & Hove Albion
+63,56666,402,Shandon Baptiste,Midfield,1998-04-08,Grenada,27,Brentford
+64,179746,402,Saman Ghoddos,Offence,1993-09-06,Iran,31,Brentford
+65,1828,445,Etrit Berisha,Goalkeeper,1989-03-10,Albania,36,Empoli FC
+66,9237,445,Razvan Marin,Midfield,1996-05-23,Romania,29,Empoli FC
+67,1800,455,Federico Fazio,Defence,1987-03-17,Argentina,38,US Salernitana 1919
+68,2236,455,Simeon Nwankwo,Offence,1992-05-07,Nigeria,33,US Salernitana 1919
+69,9306,455,Grigoris Kastanos,Offence,1998-01-30,Cyprus,27,US Salernitana 1919
+70,41152,455,Shon Weissman,Offence,1996-02-14,Israel,29,US Salernitana 1919
+71,181386,455,Francisco Ochoa,Goalkeeper,1985-07-14,Mexico,39,US Salernitana 1919
+72,1824,471,Gregoire Defrel,Offence,1991-06-17,Martinique,33,US Sassuolo Calcio
+73,2175,471,Gianluca Pegolo,Goalkeeper,1981-03-25,Italy,44,US Sassuolo Calcio
+74,8210,471,Pedro Obiang,Midfield,1992-03-27,Equatorial Guinea,33,US Sassuolo Calcio
+75,4621,511,Denis Genreau,Midfield,1999-05-21,Australia,26,Toulouse FC
+76,8193,512,Steve Mounie,Offence,1994-09-29,Benin,30,Stade Brestois 29
+77,7801,516,Pierre-Emerick Aubameyang,Offence,1989-06-18,Gabon,35,Olympique de Marseille
+78,188908,516,Michael Murillo,Defence,1996-02-11,Panama,29,Olympique de Marseille
+79,3598,518,Wahbi Khazri,Offence,1991-02-08,Tunisia,34,Montpellier HSC
+80,8298,518,Issiaga Sylla,Defence,1994-01-01,Guinea,31,Montpellier HSC
+81,98763,518,Musa Al Taamari,Midfield,1997-06-10,Jordan,27,Montpellier HSC
+82,8425,522,Dante,Defence,1983-10-18,Brazil,41,OGC Nice
+83,172057,522,Youssouf Ndayishimiye,Defence,1998-10-27,Burundi,26,OGC Nice
+84,8977,523,Clinton Mata,Defence,1992-11-07,Angola,32,Olympique Lyonnais
+85,43707,523,Mama Balde,Midfield,1995-11-06,Guinea-Bissau,29,Olympique Lyonnais
+86,51,524,Keylor Navas,Goalkeeper,1986-12-15,Costa Rica,38,Paris Saint-Germain FC
+87,108717,529,Geoffrey Lembet,Goalkeeper,1988-09-23,Central African Republic,36,Stade Rennais FC 1901
+88,728,533,Mohamed Bayo,Offence,1993-09-15,Guinea,31,Le Havre AC
+89,3687,533,Daler Kuzyaev,Midfield,1993-01-15,Russia,32,Le Havre AC
+90,7990,533,Andre Ayew,Offence,1989-12-17,Ghana,35,Le Havre AC
+91,8775,533,Yoann Salmier,Defence,1992-11-21,French Guiana,32,Le Havre AC
+92,15674,541,Elbasan Rashani,Offence,1993-05-09,Kosovo,32,Clermont Foot 63
+93,32315,541,Jeremie Bela,Offence,1993-04-08,Angola,32,Clermont Foot 63
+94,8662,543,Denis Petric,Goalkeeper,1988-05-24,Serbia,37,FC Nantes
+95,8638,545,Ismael Traore,Defence,1986-08-18,Ivory Coast,38,FC Metz
+96,8732,545,Ablie Jallow,Midfield,1998-11-14,Gambia,26,FC Metz
+97,8769,545,Alexandre Oukidja,Goalkeeper,1988-07-19,Algeria,36,FC Metz
+98,74681,545,Warren Tchimbembe,Offence,1998-04-21,Congo,27,FC Metz
+99,136646,545,Georges Mikautadze,Offence,2000-10-31,Georgia,24,FC Metz
+100,177049,545,Danley Jean Jacques,Midfield,2000-05-20,Haiti,25,FC Metz
+101,167805,546,Yannick Pandor,Goalkeeper,2001-05-01,Comoros,24,Racing Club de Lens
+102,810,547,Yunis Abdelhamid,Defence,1987-09-28,Morocco,37,Stade de Reims
+103,8635,547,Ludovic Butelle,Goalkeeper,1983-04-03,France,42,Stade de Reims
+104,34313,547,Joseph Okumu,Defence,1997-05-26,Kenya,28,Stade de Reims
+105,6843,559,Ørjan Nyland,Goalkeeper,1990-09-10,Norway,34,Sevilla FC
+106,8474,559,Mariano Diaz,Offence,1993-08-01,Dominican Republic,31,Sevilla FC
+107,3526,563,Łukasz Fabianski,Goalkeeper,1985-04-18,Poland,40,West Ham United
+108,8212,563,Michail Antonio,Midfield,1990-03-28,Jamaica,35,West Ham United
+109,1043,576,Lebo Mothiba,Offence,1996-01-28,South Africa,29,RC Strasbourg Alsace
+110,190831,586,Gvidas Gineitis,Midfield,2004-04-15,Lithuania,21,Torino FC
+111,9533,721,Peter Gulacsi,Goalkeeper,1990-05-06,Hungary,35,RB Leipzig
+112,9550,721,Kevin Kampl,Midfield,1990-10-09,Slovenia,34,RB Leipzig
+113,4203,1044,Darren Randolph,Goalkeeper,1987-05-12,Ireland,38,AFC Bournemouth
+114,121808,5890,Lameck Banda,Offence,2001-01-29,Zambia,24,US Lecce
+115,4409,5911,Milan Đuric,Offence,1990-05-22,Bosnia-Herzegovina,35,AC Monza
