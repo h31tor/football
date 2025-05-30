@@ -1,4 +1,4 @@
-,player_id,team_id,name,position,date_of_birth,nationality,age,name
+,player_id,team_id,name,position,date_of_birth,nationality,age,team
 0,193091,10,Raul Paula,Midfield,1976-06-26,Germany,48,VfB Stuttgart
 1,3271,19,Makoto Hasebe,Defence,1984-01-18,Japan,41,Eintracht Frankfurt
 2,3739,87,Radamel Falcao,Offence,1986-02-10,Colombia,39,Rayo Vallecano de Madrid
